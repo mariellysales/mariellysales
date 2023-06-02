@@ -11,7 +11,7 @@
 </div>
   
   ##
-  [![Marielly GitHub stats](https://github-readme-stats.vercel.app/api?username=mariellysales&hide=contribs&show_icons=true&theme=radical)](https://github.com/mariellysales/github-readme-stats)
+  [![Marielly GitHub stats](https://github-readme-stats.vercel.app/api?username=mariellysales&hide=contribs&show_icons=true&theme=radical)](https://github.com/mariellysales)
   ##
  
 <div> 
