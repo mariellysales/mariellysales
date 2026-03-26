@@ -1,22 +1,43 @@
-### Hello, i´m Marielly 👋
+### Hello, I'm Marielly 👋  
 
-- 🔭 I’m currently looking for a job ...
-- 🌱 I’m currently learning PHP POO ...
+💻 Fullstack Developer focused on building scalable and high-performance web applications.  
+🚀 Experience with PHP (Laravel, Yii) and modern JavaScript (Node.js, NestJS, React).  
 
+---
+
+### 🧠 About me  
+- 💼 Currently working as a Fullstack Developer  
+- 🔧 Strong experience with REST APIs, databases (PostgreSQL, Oracle) and AWS  
+- ⚙️ Focused on clean code, scalable architecture and efficient workflows  
+- 🌍 Advanced English for technical documentation and global environments  
+
+---
+
+### 🛠️ Tech Stack  
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="nestjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
+  <img align="center" alt="docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="aws" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
 </div>
-  
-  ##
-  [![Marielly GitHub stats](https://github-readme-stats.vercel.app/api?username=mariellysales&hide=contribs&show_icons=true&theme=radical)](https://github.com/mariellysales)
-  ##
- 
+
+---
+
+### 📊 GitHub Stats  
+[![Marielly GitHub stats](https://github-readme-stats.vercel.app/api?username=mariellysales&hide=contribs&show_icons=true&theme=radical)](https://github.com/mariellysales)
+
+---
+
+### 📫 Contact  
 <div> 
-  <a href="https://www.instagram.com/marys.m09/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:mariellysales01@icloud.com"><img src="https://img.shields.io/badge/-Icloud-%23333?style=for-the-badge&logo=icloud&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/marielly-sales-937407206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+  <a href="mailto:mariellysales01@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/marielly-sales-937407206/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
 </div>
